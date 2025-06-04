@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luan and I'm a technology apprentice</h2>
+<h2 align="left">Oi 👋! Meu nome é Luan e eu sou um aprendiz de tecnologia.</h2>
 
 ###
 
@@ -6,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luaansoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaansoares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Minhas principais habilidades</h2>
 
 ###
 
@@ -19,6 +23,9 @@
 
 ###
 
+<h2 align="left">Contatos:</h2>
+
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/luaansoaresdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
